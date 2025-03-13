@@ -2,7 +2,7 @@
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
  
-**[Z4nettx 🧑🏽‍💻](https://github.com/Z4nettx)**
+<h1> **[Z4nettx 🧑🏽‍💻](https://github.com/Z4nettx)** </h1>
 
 
 **`Estudante de Curso Técnico de Desenvolvimento de Sistemas`** 
@@ -60,7 +60,7 @@ I know a few things about thumbnails and graphic design
 
 ---
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
 <img 
