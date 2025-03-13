@@ -32,6 +32,9 @@ I know a few things about thumbnails and graphic design
 
 <div>
  <a href="https://www.behance.net/zanettiduduxxd" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"> </a> </div>
+
+ <div>
+ <a href="twitter.com/zanettx_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"> </a> </div>
  
 <p align="left">
     <a href="">
