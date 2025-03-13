@@ -1,7 +1,8 @@
 # Z4nettx 🧑🏽‍💻
 
 **`Estudante do Curso Técnico de Desenvolvimento de Sistemas`**
-[pt-BR]
+
+<p[pt-BR]
 Estudando Desenvolvimento de Sistemas no SENAI A. Jacob Laffer
 Certificado de curso básico de Excel pelo SENAI
 Manjo um pouco sobre thumbnails e edição de vídeo
@@ -11,7 +12,8 @@ Studying Systems Analysis and Development on SENAI A. Jacob Laffer
 Basic Excel certificated for SENAI
 I know a few things about thumbnails and graphic design 
 
-Follow in Instagram "[@z4nettx](https://www.instagram.com/z4nettx)".
+Follow in Instagram "[@z4nettx](https://www.instagram.com/z4nettx)". 
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
 <p align="left">
     <a href="">
