@@ -6,7 +6,7 @@
 
 <h3>
    
-*pt-BR*
+*pt-BR* 🇧🇷
 
 </h3>   
 Estudando Desenvolvimento de Sistemas no SENAI A. Jacob Laffer
@@ -15,7 +15,7 @@ Manjo um pouco sobre thumbnails e edição de vídeo
  
 <h3>
    
-*en-US* 
+*en-US* 🇺🇸
  </h3>
  
 Studying Systems Analysis and Development on SENAI A. Jacob Laffer 
