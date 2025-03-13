@@ -6,14 +6,17 @@
 
 <h2>
 -pt-BR-
+ </h2>   
 Estudando Desenvolvimento de Sistemas no SENAI A. Jacob Laffer
 Certificado de curso básico de Excel pelo SENAI
 Manjo um pouco sobre thumbnails e edição de vídeo
 
+<h2>
 -en-US-
 Studying Systems Analysis and Development on SENAI A. Jacob Laffer 
 Basic Excel certificated for SENAI
 I know a few things about thumbnails and graphic design 
+
 </h2>
 </p> 
 <a href"https://www.instagram.com/z4nettx"
