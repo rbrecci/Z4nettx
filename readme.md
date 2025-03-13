@@ -2,7 +2,7 @@
 [Z4nettx 🧑🏽‍💻](https://github.com/Z4nettx)
 
 
-**`Estudante do Curso Técnico de Desenvolvimento de Sistemas`** 
+**`Estudante de Curso Técnico de Desenvolvimento de Sistemas`** 
 
 <h3>
    
