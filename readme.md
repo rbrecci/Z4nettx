@@ -27,8 +27,7 @@ Manjo um pouco sobre thumbnails e edição de vídeo
 Studying Systems Analysis and Development on SENAI A. Jacob Laffer 
 Basic Excel certificated for SENAI
 I know a few things about thumbnails and graphic design 
- 
-	<div>
+ <div>
  <a href="https://www.instagram.com/z4nettx" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> </a> </div>
 
 <p align="left">
