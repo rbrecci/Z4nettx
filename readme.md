@@ -3,7 +3,7 @@
 
 **`Estudante do Curso Técnico de Desenvolvimento de Sistemas`**
 
-<p [pt-BR]
+[pt-BR]
 Estudando Desenvolvimento de Sistemas no SENAI A. Jacob Laffer
 Certificado de curso básico de Excel pelo SENAI
 Manjo um pouco sobre thumbnails e edição de vídeo
