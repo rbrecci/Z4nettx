@@ -1,6 +1,7 @@
+
+# Z4nettx 🧑🏽‍💻
 <a 
 href="https://github.com/Z4nettx"> 
-# Z4nettx 🧑🏽‍💻
 </a>
 
 **`Estudante do Curso Técnico de Desenvolvimento de Sistemas`**
@@ -14,6 +15,7 @@ Manjo um pouco sobre thumbnails e edição de vídeo
 Studying Systems Analysis and Development on SENAI A. Jacob Laffer 
 Basic Excel certificated for SENAI
 I know a few things about thumbnails and graphic design 
+
 </p> 
 <a href"https://www.instagram.com/z4nettx"
 <img
