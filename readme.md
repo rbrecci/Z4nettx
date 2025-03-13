@@ -15,10 +15,11 @@
 
 <p align="center"
 Estudando Desenvolvimento de Sistemas no SENAI A. Jacob Laffer,
-
+<p align="center"
 Certificado de curso básico de Excel pelo SENAI,
-
+<p align="center"
 Manjo um pouco sobre thumbnails e design gráfico.
+
 
  
 <h3>
@@ -27,9 +28,9 @@ Manjo um pouco sobre thumbnails e design gráfico.
  </h3>
 <p align ="center"
 Studying Systems Analysis and Development on SENAI A. Jacob Laffer,
-
+<p align="center"
 Basic Excel certificated for SENAI,
-
+<p align="center"
 I know a few things about thumbnails and graphic design.
  
  <a href="https://www.instagram.com/z4nettx" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> </a> 
