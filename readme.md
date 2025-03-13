@@ -1,7 +1,5 @@
+Welcome to my profile!"[Z4nettx 🧑🏽‍💻](https://github.com/Z4nettx)"
 
-<a 
-"[Z4nettx 🧑🏽‍💻](https://github.com/Z4nettx)"
-</a>
 
 **`Estudante do Curso Técnico de Desenvolvimento de Sistemas`**
 
