@@ -13,7 +13,7 @@
 
 </h3>
 
-
+<p align="center"
 Estudando Desenvolvimento de Sistemas no SENAI A. Jacob Laffer,
 
 Certificado de curso básico de Excel pelo SENAI,
@@ -25,7 +25,7 @@ Manjo um pouco sobre thumbnails e design gráfico.
    
 *en-US* 
  </h3>
-
+<p align ="center"
 Studying Systems Analysis and Development on SENAI A. Jacob Laffer,
 
 Basic Excel certificated for SENAI,
