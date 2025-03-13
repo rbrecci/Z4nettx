@@ -54,6 +54,7 @@ I know a few things about thumbnails and graphic design
             src="https://custom-icon-badges.demolab.com/github/followers/Z4nettx?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+ <a href="https://www.discord.com/users/533714947579052045" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> </a>
 </p>
 
 
