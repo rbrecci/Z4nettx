@@ -30,6 +30,9 @@ I know a few things about thumbnails and graphic design
  <div>
  <a href="https://www.instagram.com/z4nettx" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> </a> </div>
 
+<div>
+ <a href="https://www.behance.net/zanettiduduxxd" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"> </a> </div>
+ 
 <p align="left">
     <a href="">
         <img 
@@ -38,8 +41,6 @@ I know a few things about thumbnails and graphic design
             src="https://custom-icon-badges.demolab.com/badge/São Paulo-BR-blue?style=for-the-badge&logo=location&logoColor=white"
         />
     </a> 
- <div>
- <a href="https://www.behance.net/zanettiduduxxd" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"> </a> </div>
     <a href="https://github.com/Z4nettx?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
