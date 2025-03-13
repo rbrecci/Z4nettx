@@ -18,8 +18,7 @@ Studying Systems Analysis and Development on SENAI A. Jacob Laffer
 Basic Excel certificated for SENAI
 I know a few things about thumbnails and graphic design 
 </h3>
-
-<a href"https://www.instagram.com/z4nettx"
+<a href="https://www.instagram.com/z4nettx"
 <img
 alt: Instagram
 title: Follow in Instagram
