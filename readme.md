@@ -13,12 +13,12 @@
 
 </h3>
 
-<p align="center"
-Estudando Desenvolvimento de Sistemas no SENAI A. Jacob Laffer,>
-<p align="center"
-Certificado de curso básico de Excel pelo SENAI,>
-<p align="center"
-Manjo um pouco sobre thumbnails e design gráfico.>
+
+Estudando Desenvolvimento de Sistemas no SENAI A. Jacob Laffer,
+
+Certificado de curso básico de Excel pelo SENAI,
+
+Manjo um pouco sobre thumbnails e design gráfico.
 
 
  
@@ -26,14 +26,13 @@ Manjo um pouco sobre thumbnails e design gráfico.>
    
 *en-US* 
  </h3>
-<p align ="center"
+
 Studying Systems Analysis and Development on SENAI A. Jacob Laffer,
-<p align="center"
+
 Basic Excel certificated for SENAI,
-<p align="center"
+
 I know a few things about thumbnails and graphic design. 
- </p>
- 
+
  <a href="https://www.instagram.com/z4nettx" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> </a> 
  <a href="https://www.behance.net/zanettiduduxxd" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"> </a>
  <a href="https://www.twitter.com/zanettx_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"> </a> 
