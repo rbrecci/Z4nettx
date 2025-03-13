@@ -67,7 +67,7 @@ I know a few things about thumbnails and graphic design
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z4nettx&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z4nettx&theme=tokyonight&layout=compact&custom_title=Languages&langs_count=9"/>
 </p>
 
 
