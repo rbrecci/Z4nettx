@@ -14,12 +14,12 @@
 </h3>
 
 <p align="center"
-Estudando Desenvolvimento de Sistemas no SENAI A. Jacob Laffer,
+Estudando Desenvolvimento de Sistemas no SENAI A. Jacob Laffer,>
 <p align="center"
-Certificado de curso básico de Excel pelo SENAI,
+Certificado de curso básico de Excel pelo SENAI,>
 <p align="center"
-Manjo um pouco sobre thumbnails e design gráfico.
- </p>
+Manjo um pouco sobre thumbnails e design gráfico.>
+
 
  
 <h3>
