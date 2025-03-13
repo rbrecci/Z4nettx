@@ -6,6 +6,11 @@ Estudando Desenvolvimento de Sistemas no SENAI A. Jacob Laffer
 Certificado de curso básico de Excel pelo SENAI
 Manjo um pouco sobre thumbnails e edição de vídeo
 
+[en-US]
+Studying Systems Analysis and Development on SENAI A. Jacob Laffer 
+Basic Excel certificated for SENAI
+I know a few things about thumbnails and graphic design 
+
 Follow in Instagram "[@z4nettx](https://www.instagram.com/z4nettx)".
 
 <p align="left">
