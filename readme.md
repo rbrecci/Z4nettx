@@ -2,23 +2,23 @@
 [Z4nettx 🧑🏽‍💻](https://github.com/Z4nettx)
 
 
-**`Estudante do Curso Técnico de Desenvolvimento de Sistemas`**
+<h1> **`Estudante do Curso Técnico de Desenvolvimento de Sistemas`** </h1>
 
-<h2>
+<h3>
 -pt-BR-
- </h2>   
+   
 Estudando Desenvolvimento de Sistemas no SENAI A. Jacob Laffer
 Certificado de curso básico de Excel pelo SENAI
 Manjo um pouco sobre thumbnails e edição de vídeo
-
-<h2>
+ </h3>
+<h3>
 -en-US-
+ 
 Studying Systems Analysis and Development on SENAI A. Jacob Laffer 
 Basic Excel certificated for SENAI
 I know a few things about thumbnails and graphic design 
+</h3>
 
-</h2>
-</p> 
 <a href"https://www.instagram.com/z4nettx"
 <img
 alt: Instagram
