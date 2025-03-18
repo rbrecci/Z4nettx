@@ -1,29 +1,36 @@
 <p align="center"
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monaco&weight=300&size=40&duration=4000&pause=1000&color=8828F7&width=500&height=70&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
- 
+
 <h1> ZANETTX </h1>
 
 
-
-**`Estudante de Curso Técnico de Desenvolvimento de Sistemas`** 
-
-<h3>
-
-<p align="center"
  
-Studying Systems Analysis and Development on SENAI A. Jacob Laffer,
+<h3>
+ <p align ="center"
+  
+**`Code by code, building the future. 🚀`** 
+ 
+</h3>
 
-I know a few things about thumbnails and graphic design. 
+<h4>
 
- </h3>
+🎓 Studying Systems Analysis and Development on SENAI A. Jacob Laffer
 
+🖥️ I know a few things about thumbnails and graphic design. 
+
+ </h4>
+
+  <h2> Social Media 🔗 </h2>
 
  <a href="https://www.instagram.com/z4nettx" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> </a> 
  <a href="https://www.behance.net/zanettiduduxxd" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"> </a>
  <a href="https://www.twitter.com/zanettx_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"> </a> 
  <a href="mailto:eduardo.zanetti3006@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
  <a href="https://www.discord.com/users/533714947579052045" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> </a>
+
+ <h2> ­‎Info ℹ️ </h2>
+ 
 <p align="left">
     <a href="">
         <img 
