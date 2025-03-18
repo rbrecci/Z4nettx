@@ -2,38 +2,21 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monaco&weight=300&size=40&duration=4000&pause=1000&color=8828F7&width=500&height=70&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
  
-*<h1> ZANETTX </h1>*
+<h1> ZANETTX </h1>
+
 
 
 **`Estudante de Curso Técnico de Desenvolvimento de Sistemas`** 
 
 <h3>
-   
-*pt-BR* 
 
-</h3>
-
-
-Estudando Desenvolvimento de Sistemas no SENAI A. Jacob Laffer,
-
-Certificado de curso básico de Excel pelo SENAI,
-
-Manjo um pouco sobre thumbnails e design gráfico.
-
-
+<p align="center"
  
-<h3>
-   
-*en-US* 
- </h3>
-
 Studying Systems Analysis and Development on SENAI A. Jacob Laffer,
-
-Basic Excel certificated for SENAI,
 
 I know a few things about thumbnails and graphic design. 
 
-
+ </h3>
 
 
  <a href="https://www.instagram.com/z4nettx" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> </a> 
