@@ -1,6 +1,6 @@
 <p align="center"
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monaco&weight=300&size=40&duration=4000&pause=1000&color=8828F7&width=500&height=70&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monaco&weight=300&size=40&duration=4000&pause=1000&color=8828F7&width=500&height=70&lines=Welcome+to+my+profile!)](https://www.twitch.tv/dona)
 
 <h1> ZANETTX </h1>
 
