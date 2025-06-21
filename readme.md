@@ -1,6 +1,6 @@
 <p align="center"
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monaco&weight=300&size=40&duration=4000&pause=1000&color=8828F7&width=500&height=70&lines=Welcome+to+my+profile!)](https://github.com/Z4nettx?tab=repositories)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E4F75D&width=435&lines=Welcome+to+my+profile!)](https://github.com/Z4nettx?tab=repositories)
 
 <h1> ZANETTX </h1>
 
