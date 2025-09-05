@@ -1,35 +1,37 @@
-<p align="center"
+<p align="center">
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E4F75D&width=435&lines=Welcome+to+my+profile!)](https://github.com/Z4nettx?tab=repositories)
 
 <h1> ZANETTX </h1>
 
-
- 
-<h3>
- <p align ="center"
+<h2>
   
 **`Code by code, building the future. 🚀`** 
- 
-</h3>
+</h2>
 
-<h4>
+<h3>
 
-🎓 Studying Systems Analysis and Development on SENAI A. Jacob Laffer
+🎓 Studying Systems Analysis and Development on SENAI A. Jacob Laffer;
 
-🖥️ I know a few things about thumbnails and graphic design. 
+🌐 I'm currently leanrning about webdev and front-end, using languages like HTML and CSS for now;
 
- </h4>
+🏆 Participant in the SENAI selection process for WordSkills in modality #17 - Web Development.
+ </h3>
+ <br>
+<h1>🧑‍💻 Learned Technologies</h1>
+ <div>
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+ </div>
+  <h1> Find me 🔗 </h1>
 
-  <h2> Social Media 🔗 </h2>
+ <a href="https://www.instagram.com/z4nettx" target="_blank"><img src="https://img.icons8.com/?size=50&id=8808&format=png&color=126BC4" target="_blank"> </a> 
+ <a href="mailto:eduardozanettiluis@gmail.com" target="_blank"><img src="https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000" target="_blank"> </a>
+ <a href="https://www.discord.com/users/533714947579052045" target="_blank"><img src="https://img.icons8.com/?size=50&id=30998&format=png&color=000000" target="_blank"> </a>
 
- <a href="https://www.instagram.com/z4nettx" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> </a> 
- <a href="https://www.behance.net/zanettiduduxxd" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"> </a>
- <a href="https://www.twitter.com/zanettx_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"> </a> 
- <a href="mailto:eduardozanettiluis@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
- <a href="https://www.discord.com/users/533714947579052045" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> </a>
-
- <h2> ­‎Info ℹ️ </h2>
+ <h1> ­‎Info ℹ️ </h1>
  
 <p align="left">
     <a href="">
@@ -58,7 +60,7 @@
 
 ---
 
-### 📊 Statistics
+## 📊 Statistics
 
 <p>
 <img 
