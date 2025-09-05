@@ -15,7 +15,7 @@
 
 🌐 I'm currently leanrning about webdev and front-end, using languages like HTML and CSS for now;
 
-🏆 Participant in the SENAI selection process for WordSkills in modality #17 - Web Development.
+🏆 Participant in the SENAI selection process for WorldSkills in modality #17 - Web Development.
  </h3>
  <br>
 <h1>🧑‍💻 Learned Technologies</h1>
