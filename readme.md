@@ -27,7 +27,7 @@
  </div>
   <h1> Find me 🔗 </h1>
 
- <a href="https://www.linkedin/in/eduardozanettiluis" target="_blank"><img src="https://img.icons8.com/?size=50&id=8808&format=png&color=126BC4" target="_blank"> </a> 
+ <a href="https://www.linkedin.com/in/eduardozanettiluis" target="_blank"><img src="https://img.icons8.com/?size=50&id=8808&format=png&color=126BC4" target="_blank"> </a> 
  <a href="mailto:eduardozanettiluis@gmail.com" target="_blank"><img src="https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000" target="_blank"> </a>
  <a href="https://www.discord.com/users/533714947579052045" target="_blank"><img src="https://img.icons8.com/?size=50&id=30998&format=png&color=000000" target="_blank"> </a>
 
